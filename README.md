@@ -17,7 +17,7 @@ cat file.txt | cb
 same as
 
 ```bash
-xclip -sel clip
+xclip -sel clip file.txt
 ```
 
 ---
